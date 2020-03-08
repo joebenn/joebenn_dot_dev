@@ -1,3 +1,24 @@
 body {
-    background-color: blanchedalmond;
+    background-color: #F2F2F2;
+    color: #6EBF63;
+    font-family: 'Poppins', sans-serif;
+    margin: 2em;
+}
+
+h1 {
+    margin: 0
+}
+
+#box {
+    margin-top: 50px;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 40px;
 }
