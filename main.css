@@ -56,18 +56,6 @@ a {
     font-family: 'Roboto', sans-serif;
 }
 
-#img-box {
-    display: flex;
-    justify-content: center;
-    margin-top: 24px;
-}
-
-#img-box img{
-    height: 200px;
-    object-fit: cover;
-
-    border-radius: 5px;
-}
 
 .header-line {
     display: flex;
